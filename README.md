@@ -1,8 +1,8 @@
 Hola, soy JatoMixo. 
-Actualmente estoy aprendiendo C# y Unity.
+Actualmente estoy aprendiendo C#, Unity y un poco de Python.
 
  Hi, I’m @JatoMixo.
- I’m currently learning C# and Unity.
+ I’m currently learning C#, Unity and a bit of Python.
 
 
 <!---
